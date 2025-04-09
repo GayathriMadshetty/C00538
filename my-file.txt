@@ -1,1 +1,2 @@
 This is from git bash
+This is from vscode
